@@ -19,7 +19,7 @@ This Python program analyzes student grades for a single course.
 
 ```bash
 python grade_calculator.py
-
+```
 ## Screencast
 
 https://www.loom.com/share/a5f7c821e5cb42bba58de3d9aa9bda87
