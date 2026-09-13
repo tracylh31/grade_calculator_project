@@ -22,4 +22,4 @@ python grade_calculator.py
 
 ## Screencast
 
-Screencast link will be added here.
+https://www.loom.com/share/a5f7c821e5cb42bba58de3d9aa9bda87
