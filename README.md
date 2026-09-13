@@ -23,3 +23,7 @@ python grade_calculator.py
 ## Screencast
 
 https://www.loom.com/share/a5f7c821e5cb42bba58de3d9aa9bda87
+
+## Acknowledgment
+
+I used ChatGPT as a learning and troubleshooting resource to help me understand Python concepts, debug code, and work through the Git/GitHub setup. I reviewed, tested, and explained the final program myself.
